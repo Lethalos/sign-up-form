@@ -107,12 +107,8 @@ form .form-content {
   border: 1px solid skyblue;
 }
 
-.content div input:valid {
-  border: 1px solid green;
-}
-
 .content div input:invalid {
-  border: 1px solid red;
+  color: red;
 }
 
 form .form-footer {
